@@ -18,7 +18,12 @@ This dashboard is created to  find the present day temperature and the weather c
  The screenshot of the application looks almost similar to the one as shown here.
 
  
- ![Image](workday.png)
+ ![Image](images/display_page.png)
+ 
+ ![Image1](images/city_stored.png)
+ 
+ ![Image2](images/showdetails.png)
+ 
  
  ## Working of the Application
  * In this dashboard, the user enters the __name of a city__ in the __search field__ which will be displayed on the left side of the page.
@@ -27,7 +32,6 @@ This dashboard is created to  find the present day temperature and the weather c
  * The data for all the cities will be stored in the __local storage__, that means if the user closes the window or refreshes the browser, the search history will still contain all the old city names and their details entered.
  
    
-
  
  
  ## Installations
@@ -35,13 +39,13 @@ This dashboard is created to  find the present day temperature and the weather c
    * [The URL of the deployed application](https://dipti2021.github.io/Weather_Dashboard_DR/)
  
 
-  *Keeping all these conditions in mind, I have created the Javascript code using the if, else if else conditions along with the code snippets taken from various libraries*
+  *Keeping all these conditions in mind, I have created the Javascript code along with  taking the code snippets taken from various libraries*
   
- ## Libraries taken
+ ## Libraries Used
    * [Bootstrap](https://getbootstrap.com/).
    * [jQuery](https://jquery.com/).
    * [moment.js](https://momentjs.com/).
-   * 
+   * [OpenWeather API](https://openweathermap.org/api).
 
 
  ## Credits
