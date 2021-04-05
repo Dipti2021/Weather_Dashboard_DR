@@ -43,7 +43,6 @@ This dashboard is created to  find the present day temperature and the weather c
   
  ## Libraries Used
    * [Bootstrap](https://getbootstrap.com/).
-   * [jQuery](https://jquery.com/).
    * [moment.js](https://momentjs.com/).
    * [OpenWeather API](https://openweathermap.org/api).
 
