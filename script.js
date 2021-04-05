@@ -32,7 +32,7 @@ var submit_func = function(event){
     event.preventDefault();
     var city = enter_city.value.trim();
     if(city){
-        weather_fetch(city); display_five(city); cities.unshift({city}); enter_city.value = "";
+        weather_fetch(city); display_five(city); entered_city.unshift({city}); enter_city.value = "";
     } else{
         alert("Enter a city's name");
     }
